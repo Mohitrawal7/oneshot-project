@@ -20,7 +20,7 @@ console.log(products)
   return (
     <>
   <Navbar/>
-<div className="lg:flex  flex-wrap justify-evenly ">
+<div className="lg:flex  flex-wrap justify-evenly pt-20 ">
 {
   products.map((product)=>{
  return (
